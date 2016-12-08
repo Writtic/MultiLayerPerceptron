@@ -1,2 +1,2 @@
 # MultiLayerPerceptron
-Neuron Network - Multi Layer Perceptron
+Multi Layer Perceptron for XOR function
